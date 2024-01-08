@@ -104,6 +104,4 @@ class TodoController extends Controller
         $request->session()->flash('alert-info', 'Todo sikeresen törölve');
         return redirect()->route('todos.index');
     }
-
-
 }

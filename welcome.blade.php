@@ -14,7 +14,9 @@
                 <div class="col-md-8">
                     <div class="card">
                         <div class="card-body text-center">
+                            
                             Ha használni szeretné a TO-DO App-ot, akkor először jelentkezzen be.
+
                         </div>
                     </div>
                 </div>

@@ -30,7 +30,7 @@
                             <label class="form-label">Leírás</label>
                             <textarea name="description" class="form-control" cols="50" rows="5"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary">Küld</button>
+                        <button type="submit" class="btn btn-primary"> Küld </button>
                     </form>
                 </div>
             </div>

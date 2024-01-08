@@ -56,7 +56,7 @@
                                     <th>Cím</th>
                                     <th>Leírás</th>
                                     <th>Állapot</th>
-                                    <th>Műveletek</th>
+                                    <th> Műveletek </th>
                                     </tr>
                                 </thead>
                                 <tbody>

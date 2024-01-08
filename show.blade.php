@@ -16,7 +16,6 @@
                     <a href="{{ url()->previous() }}" class="btn btn-sm btn-info">Vissza</a> <br>
                     <b>TO-DO: </b> {{ $todo->title }} <br>
                     <b>TO-DO leírása: </b> {{ $todo->description }}
-
                 </div>
             </div>
         </div>

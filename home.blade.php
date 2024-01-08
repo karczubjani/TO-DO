@@ -15,6 +15,7 @@
                     @endif
 
                     Üdvözöljük a TO-DO App-ban. A továbblépéshez nyomja meg a Tovább gombot:
+                    
                 </div>
             </div>
         </div>
